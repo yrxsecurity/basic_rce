@@ -42,7 +42,7 @@ Jika Sudah Kita Akses Di Dokumen Root : site.com/namashell.php
 ### Penjelasan Singkat
 Penjelasan Singkat Tentang Command wget :
 
-wget menurut Otak Menarik File Dari Luar Server dan Juga Membuat Di Dalam Server
+wget menurut Otak Gua : Menarik File Dari Luar Server dan Juga Membuat Di Dalam Server
 
 Sedangkan -O Untuk Menamakan File Tersebut 
 
