@@ -46,6 +46,8 @@ wget menurut Otak Menarik File Dari Luar Server dan Juga Membuat Di Dalam Server
 
 Sedangkan -O Untuk Menamakan File Tersebut 
 
+Sebagai contoh : Saya Telah Membuat Shell Dengan Ekstensi txt Dan Menguploadnya di hosting lain artinya itu diluar server , nah dengan perintah wget kita bisa menarik file itu ke dalam server cuk dan di buat filenya dengan perintah -O.
+
 Tentu Saja Ini Bisa Di Manfaatkan Untuk Up Shell BackDoor
 
 Oke Sekian Sayang:v
