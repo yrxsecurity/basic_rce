@@ -1,5 +1,8 @@
 ### Remote Code Execution
 
+<p align="center">
+<img src="https://i.ibb.co/3TNyvvW/20201211-095009.png">
+
 Basic For Remote Code Execution ( Critical )
 
 Contoh Kasus Nya Kayak Gini Lur
