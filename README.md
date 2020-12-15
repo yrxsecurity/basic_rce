@@ -5,6 +5,9 @@
 
 Basic For Remote Code Execution ( Critical )
 
+merupakan suatu teknik serangan pada website dengan cara mengeksekusi kode berbahaya dan mengambil alih kendali akses ke sistem komputer. attacker mempunyai kemampuan untuk mengeksekusi perintah di mesin target, biasanya memanfaatkan kelemahan aplikasi yang dijadikan target eksploitasi.
+Remote Command Execution (RCE) atau Remote Arbitary Command Execution (ACE) adalah bug yg memungkinkan attacker untuk menjalankan command2 secara remote melalui url. Bug ini biasanya terdapat pada aplikasi yg mnggunakan cgi.
+
 Contoh Kasus Nya Kayak Gini Lur
 
 ```
