@@ -1,7 +1,7 @@
 ### Remote Code Execution
 
 <p align="center">
-<img src="https://i.ibb.co/3TNyvvW/20201211-095009.png" height="50" width="50">
+<img src="https://i.ibb.co/3TNyvvW/20201211-095009.png" height="150" width="150">
 
 Basic For Remote Code Execution ( Critical )
 
